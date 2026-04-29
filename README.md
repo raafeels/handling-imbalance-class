@@ -1,7 +1,7 @@
 # Handling Class Imbalance on Liver Cancer Dataset Using Random Forest
 
 ## Overview
-This project addresses the **class imbalance problem** in a liver cancer dataset using Random Forest classifier. Three oversampling/resampling techniques were compared to find the best approach for improving minority class detection.
+This project addresses the **class imbalance problem** in a liver cancer dataset using Random Forest classifier. Three resampling techniques were compared to find the best approach for improving minority class detection.
 
 ## Methods
 | Technique | Description |
